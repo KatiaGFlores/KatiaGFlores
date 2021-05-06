@@ -1,5 +1,5 @@
 - 👋 Hi there , I’m @KatiaGF.lores
-- 👀 I’m interested in all about information technology.
+- 👀 I’m interested in everything about information technology.
 - 🌱 I’m currently learning data science.
 
 <!---
